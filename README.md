@@ -5,6 +5,6 @@ SYN Flood DOS attack involves sending too many SYN packets (with a bad or random
 
 ON UBUNTU
 
-$ gcc synflood.c <br />
+$ gcc DosAttack_SYNFlooding.cpp <br />
 $ sudo ./a.out <br />
 Packet Send <br />
